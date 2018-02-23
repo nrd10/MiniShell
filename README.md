@@ -3,7 +3,8 @@ Minitiarized Version of a Command Shell
 
 The source code can be compiled to build a program that works as
 a minitarized version of a command shell. The Makefile provided
-can be used to compile an executable.
+can be used to compile an executable. The program requires installation
+of a GNU c++ compiler.
 
 This program can run the majority of commands that you would type into the command
 line. It can run any executable file specified and handles
